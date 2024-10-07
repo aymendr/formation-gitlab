@@ -22,4 +22,5 @@ connect from your browser to http://gitlab.example.com
 
 password reset to root / aymenaymen
 
+password aymen/Hem!2020
 
