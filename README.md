@@ -37,3 +37,9 @@ password aymen/Hem!2020
 ```
 sudo gitlab-ctl status
 ```
+- Editer le fichier /etc/gitlab/gitlab.rb
+- set the external_url variable to the right hostname
+- run the folowing command to reload the conf
+```
+sudo gitlab-ctl reconfigure
+```
